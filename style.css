@@ -1,0 +1,25 @@
+body {
+	font-family: consolas, sans-serif;
+	color: #22223b;
+	background-color: #370617;
+	font-size: 15px;
+	font-weight: bold;
+	
+}
+#daftar-siswa  {
+	background-color: #ffe5d9;
+	border-collapse: collapse;
+	border-width: 5px;
+	border-color: f4a261;
+	
+}
+.link	{
+	color: #540b0e;
+	text-decoration: none;
+}
+.bg {
+	background-color: #22223b;
+	color: #fdfcdc;
+	font-size: 15px;
+	align-content: center;
+}
